@@ -16,7 +16,7 @@ set_site_information(
     description = "Records lab experiments, calculates percent yield, and keeps a history for comparing results.",
     sources = "Built with the Drafter library.",
     planning = "See the brainstorming and design worksheets in this repository.",
-    links = "None"
+    links = "https://will-anater.github.io/percent-yield-site/"
 )
 
 set_website_framed(False)
